@@ -24,10 +24,9 @@ Kaggle → AWS S3 → Python → SQL → Insights
 ## Repository Structure
 - notebooks/
 - sql/
-- screenshots/
 ## How to Use
 1. clone repository
 2. run notebooks
 3. execute SQL queries
 ## Author
-Your name
+Hanna Asfaw
